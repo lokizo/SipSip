@@ -16,7 +16,7 @@ public class MainActivity extends Activity implements OnClickListener {
     Button btnReset;
 
     SharedPreferences savedState;
-
+//wooo
     float STATUS;
     final float DAILY_NORM = 1500;
 
